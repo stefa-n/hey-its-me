@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 
-import Link from 'next/link'
 import Script from 'next/script'
 
 import Button from '/components/Button'
@@ -33,6 +32,7 @@ export default function Home() {
                             <br/>
 
                             <Button fontawesome='fa-brands fa-github' username='stefa-n' url='https://github.com/stefa-n'/>
+                            <Button/>
                             <Button fontawesome='fa-brands fa-github' username='superstashed' url='https://github.com/superstashed'/>
                         </div>
                     </div>

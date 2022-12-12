@@ -1,10 +1,18 @@
-import Head from 'next/head'
-import Image from 'next/image'
 
 import Link from 'next/link'
-import Script from 'next/script'
 
 export default function Button({fontawesome, username, url}) {
+    if(!fontawesome && !username & !url) {
+        return (
+            <div style={{display: 'flex', justifyContent: 'center'}}>
+                <div style={{
+                    width: '60vw',
+                    height: '50px',
+                    marginTop: '2rem'
+                }}/>
+            </div>
+        )
+    }else{
     return (
         <div>
             <Link href={url}>
@@ -30,4 +38,5 @@ export default function Button({fontawesome, username, url}) {
             </Link>
         </div>
     )
+}
 }
