@@ -1,3 +1,4 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/nQXyQ4?referralCode=stefa-n)
 
 # hey, it's me!
 
