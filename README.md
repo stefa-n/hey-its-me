@@ -7,4 +7,4 @@ https://hey-its-me.up.railway.app/
 
 
 ## How to set up on Railway
-Video preview coming soon™️
+Video tutorial coming soon™️
