@@ -3,7 +3,7 @@
 # hey, it's me!
 ## Preview
 ![](https://i.imgur.com/mgqu53T.png)
-https://hey-its-me.up.railway.app/
+https://stefa-n.xyz/
 
 
 ## How to set up on Railway
